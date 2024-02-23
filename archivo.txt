@@ -1,1 +1,2 @@
-Creo en rama principal trunk
+Creo un archivo en mezcla
+Otro texto
